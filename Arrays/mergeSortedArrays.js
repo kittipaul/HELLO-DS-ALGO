@@ -26,10 +26,10 @@ const mergeArrays = (arr1, arr2) => {
 	return sortedArr;
 };
 
-var myArray     = [3, 4, 6, 10, 13, 15];
+var myArray = [3, 4, 6, 10, 13, 15];
 var alicesArray = [1, 5, 8, 12, 14, 19];
 
-console.log(mergeArrays(myArray, alicesArray));
+// console.log(mergeArrays(myArray, alicesArray));
 
 /*
 	TIPS!!!
@@ -69,5 +69,6 @@ console.log(mergeArrays(myArray, alicesArray));
 // console.log(mergeArray([2,4,6,10,11,15], [1,5,8,12,14,19]));
 // console.log(mergeArray([2,4,6,10,11,15], [1,5,8]));
 // console.log(mergeArray([2,4,6,10], [1,5,8,12,14,19]));
+
 
 
